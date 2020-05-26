@@ -719,7 +719,7 @@ section.lazy-placeholder:after {
 .cid-rKPZH5sKj0 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 @media (max-width: 767px) {
   .cid-rKPZH5sKj0 .media-wrap {
@@ -781,13 +781,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rX2510fbl2 .navbar {
-  background: #ffffff;
+  background: #efefef;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rX2510fbl2 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-rX2510fbl2 a {
   font-style: normal;
@@ -878,7 +878,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rX2510fbl2 .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
