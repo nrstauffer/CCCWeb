@@ -2632,6 +2632,7 @@ section.lazy-placeholder:after {
 }
 .cid-rKWprqDw0y .mbr-content-text {
   color: #767676;
+  text-align: center;
 }
 .cid-rKWprqDw0y .card {
   word-wrap: break-word;
@@ -5642,7 +5643,7 @@ section.lazy-placeholder:after {
 .cid-sf0F4Y3ByF {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #4284df;
+  background-color: #cc2952;
 }
 .cid-sf0F4Y3ByF h2,
 .cid-sf0F4Y3ByF h3,
@@ -5721,7 +5722,7 @@ section.lazy-placeholder:after {
   left: 0;
   right: 0;
   background: #2c1616;
-  opacity: 0.4;
+  opacity: 0.1;
   z-index: 0;
 }
 .cid-sf0F4Y3ByF .form-block .form-wrap {
